@@ -1,0 +1,5 @@
+concept,name,concept_type
+middle_income,Middle income,measure
+median_income,Median income,measure
+year,Year,time
+county,County,entity_domain
