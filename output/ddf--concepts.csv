@@ -4,3 +4,4 @@ median_income,Median income,measure
 year,Year,time
 county,County,entity_domain
 life_expectancy,Life expectancy,measure
+population,Population,measure
