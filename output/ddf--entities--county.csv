@@ -1,22 +1,22 @@
-county,name,map_id,map_id
-01,Stockholms län,SE.ST,SE.ST
-03,Uppsala län,SE.UP,SE.UP
-04,Södermanlands län,SE.SD,SE.SD
-05,Östergötlands län,SE.OG,SE.OG
-06,Jönköpings län,SE.JO,SE.JO
-07,Kronobergs län,SE.KR,SE.KR
-08,Kalmar län,SE.KA,SE.KA
-09,Gotlands län,SE.GT,SE.GT
-10,Blekinge län,SE.BL,SE.BL
-12,Skåne län,SE.SN,SE.SN
-13,Hallands län,SE.HA,SE.HA
-14,Västra Götalands län,SE.VG,SE.VG
-17,Värmlands län,SE.VR,SE.VR
-18,Örebro län,SE.OR,SE.OR
-19,Västmanlands län,SE.VM,SE.VM
-20,Dalarnas län,SE.KO,SE.KO
-21,Gävleborgs län,SE.GV,SE.GV
-22,Västernorrlands län,SE.VN,SE.VN
-23,Jämtlands län,SE.JA,SE.JA
-24,Västerbottens län,SE.VB,SE.VB
-25,Norrbottens län,SE.NB,SE.NB
+county,name,map_id
+01,Stockholms län,SE.ST
+03,Uppsala län,SE.UP
+04,Södermanlands län,SE.SD
+05,Östergötlands län,SE.OG
+06,Jönköpings län,SE.JO
+07,Kronobergs län,SE.KR
+08,Kalmar län,SE.KA
+09,Gotlands län,SE.GT
+10,Blekinge län,SE.BL
+12,Skåne län,SE.SN
+13,Hallands län,SE.HA
+14,Västra Götalands län,SE.VG
+17,Värmlands län,SE.VR
+18,Örebro län,SE.OR
+19,Västmanlands län,SE.VM
+20,Dalarnas län,SE.KO
+21,Gävleborgs län,SE.GV
+22,Västernorrlands län,SE.VN
+23,Jämtlands län,SE.JA
+24,Västerbottens län,SE.VB
+25,Norrbottens län,SE.NB
