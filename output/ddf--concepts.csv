@@ -1,7 +1,8 @@
-concept,name,concept_type
-middle_income,Middle income,measure
-median_income,Median income,measure
-year,Year,time
-county,County,entity_domain
-life_expectancy,Life expectancy,measure
-population,Population,measure
+concept,name,concept_type,map_type,map_file,map_object
+name,Name,string,,,
+population,Population,measure,,,
+year,Year,time,,,
+county,County,entity_domain,topojson,swe_counties.json,counties
+life_expectancy,Life expectancy,measure,,,
+middle_income,Middle income,measure,,,
+median_income,Median income,measure,,,
