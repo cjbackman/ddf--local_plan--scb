@@ -1,22 +1,22 @@
-county,name,is--county,map_id
-01,Stockholms län,True,SE.ST
-03,Uppsala län,True,SE.UP
-04,Södermanlands län,True,SE.SD
-05,Östergötlands län,True,SE.OG
-06,Jönköpings län,True,SE.JO
-07,Kronobergs län,True,SE.KR
-08,Kalmar län,True,SE.KA
-09,Gotlands län,True,SE.GT
-10,Blekinge län,True,SE.BL
-12,Skåne län,True,SE.SN
-13,Hallands län,True,SE.HA
-14,Västra Götalands län,True,SE.VG
-17,Värmlands län,True,SE.VR
-18,Örebro län,True,SE.OR
-19,Västmanlands län,True,SE.VM
-20,Dalarnas län,True,SE.KO
-21,Gävleborgs län,True,SE.GV
-22,Västernorrlands län,True,SE.VN
-23,Jämtlands län,True,SE.JA
-24,Västerbottens län,True,SE.VB
-25,Norrbottens län,True,SE.NB
+county,name,is--county
+01,Stockholms län,TRUE
+03,Uppsala län,TRUE
+04,Södermanlands län,TRUE
+05,Östergötlands län,TRUE
+06,Jönköpings län,TRUE
+07,Kronobergs län,TRUE
+08,Kalmar län,TRUE
+09,Gotlands län,TRUE
+10,Blekinge län,TRUE
+12,Skåne län,TRUE
+13,Hallands län,TRUE
+14,Västra Götalands län,TRUE
+17,Värmlands län,TRUE
+18,Örebro län,TRUE
+19,Västmanlands län,TRUE
+20,Dalarnas län,TRUE
+21,Gävleborgs län,TRUE
+22,Västernorrlands län,TRUE
+23,Jämtlands län,TRUE
+24,Västerbottens län,TRUE
+25,Norrbottens län,TRUE

@@ -1,13 +1,12 @@
 key,value,file
-concept,name,ddf--concepts.csv
 concept,concept_type,ddf--concepts.csv
 concept,map_file,ddf--concepts.csv
 concept,map_object,ddf--concepts.csv
 concept,map_type,ddf--concepts.csv
+concept,name,ddf--concepts.csv
 "county,year",life_expectancy,ddf--datapoints--life_expectancy--by--county--year.csv
 "county,year",median_income,ddf--datapoints--median_income--by--county--year.csv
 "county,year",middle_income,ddf--datapoints--middle_income--by--county--year.csv
 "county,year",population,ddf--datapoints--population--by--county--year.csv
 county,name,ddf--entities--county.csv
 county,is--county,ddf--entities--county.csv
-county,map_id,ddf--entities--county.csv
