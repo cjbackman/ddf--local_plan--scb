@@ -1,5 +1,6 @@
 key,value,file
 concept,concept_type,ddf--concepts.csv
+concept,domain,ddf--concepts.csv
 concept,map_file,ddf--concepts.csv
 concept,map_object,ddf--concepts.csv
 concept,map_type,ddf--concepts.csv
